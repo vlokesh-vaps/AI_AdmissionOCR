@@ -1,0 +1,1 @@
+"""TC OCR application package."""
